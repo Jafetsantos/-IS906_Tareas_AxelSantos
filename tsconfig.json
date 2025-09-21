@@ -2,7 +2,7 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-     "rootDir": "./src",
+     "rootDir": "Tarea 1/src 1/src 1/src 1/src",
      "outDir": "./dist",
 
     // Environment Settings
