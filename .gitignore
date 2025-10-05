@@ -4,3 +4,5 @@ node_modules/
 # Ignorar lockfiles si no quieres versionarlos (opcional)
 package-lock.json
 .vscode/
+.Dist/
+.DS_Store
